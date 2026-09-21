@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from "vue-router";
 
+// link to views instead of components
 import AboutView from "../views/AboutView.vue";
 import MenuView from "../views/MenuView.vue";
 import CartView from "../views/CartView.vue";
